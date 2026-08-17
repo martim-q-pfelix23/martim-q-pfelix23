@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.png" alt="Martim Félix — Data Science, Machine Learning and Financial Analytics" width="100%">
-
+<img src="https://raw.githubusercontent.com/martim-q-pfelix23/martim-q-pfelix23/main/assets/profile-banner.png" alt="Martim Félix — Data Science, Machine Learning and Financial Analytics" width="100%">
 <br>
 
 MSc in **Data Engineering and Data Science** at the **University of Minho**
