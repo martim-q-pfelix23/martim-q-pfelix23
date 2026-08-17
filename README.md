@@ -14,22 +14,22 @@ MSc in **Data Engineering and Data Science** at the **University of Minho**
 
 ## About Me
 
-I am a Data Engineering and Data Science MSc student interested in building **reliable, data-driven systems** that go beyond model training — from data preparation and validation to optimization, APIs and decision-support applications.
+I am a Data Engineering and Data Science MSc student interested in building **reliable, data-driven systems** that go beyond model training, from data preparation and validation to optimization, APIs and decision-support applications.
 
 My main interests lie at the intersection of **Machine Learning**, **Financial Data Science** and **Decision Support Systems**, with a particular interest in applying ML to financial risk, fraud detection and other high-impact decision problems.
 
 ### Current Focus
 
-- **Financial Machine Learning** — fraud detection, risk analytics and data-driven financial decision-making
-- **Human-AI Decision Systems** — combining machine predictions with human expertise under operational constraints
-- **Predictive & Prescriptive Analytics** — connecting forecasting, optimization and decision-making
-- **MLOps & ML Engineering** — reproducible pipelines, testing and production-oriented ML
+- **Financial Machine Learning**: fraud detection, risk analytics and data-driven financial decision-making
+- **Human-AI Decision Systems**: combining machine predictions with human expertise under operational constraints
+- **Predictive & Prescriptive Analytics**: connecting forecasting, optimization and decision-making
+- **MLOps & ML Engineering**: reproducible pipelines, testing and production-oriented ML
 
 ---
 
 ## Currently Building
 
-### FraudOps — Capacity-Aware Human-AI Fraud Review
+### FraudOps - Capacity-Aware Human-AI Fraud Review
 
 **In progress**
 
