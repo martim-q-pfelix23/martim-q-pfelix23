@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" alt="Martim Félix — Data Science, Machine Learning and Financial Analytics" width="100%">
+<img src="assets/profile-banner.png" alt="Martim Félix — Data Science, Machine Learning and Financial Analytics" width="100%">
 
 <br>
 
